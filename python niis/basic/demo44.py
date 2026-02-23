@@ -10,4 +10,4 @@ y2=float(input())
 x=(x1+x2)/2
 y=(y1+y2)/2
 print("midpoint x=",x)
-print("midpoint y=",y)
+print("midpoint y=",yn)
