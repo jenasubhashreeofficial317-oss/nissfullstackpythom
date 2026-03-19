@@ -1,4 +1,4 @@
-def facttest(no):
+def fac ttest(no):
 	f=1
 	while no>0:
 		f=f*no

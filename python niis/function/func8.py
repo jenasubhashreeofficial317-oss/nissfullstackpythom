@@ -1,4 +1,4 @@
-def add(x,no2):
+def add(x,no2): 
 	s=x+no2
 	print("sum",s)
 	return
