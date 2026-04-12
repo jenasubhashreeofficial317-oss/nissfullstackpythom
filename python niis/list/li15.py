@@ -1,6 +1,6 @@
 s="welcome"
 L=[]
 for i in s:
-	if i not in L:
+	if i in"aeiouAEIOU":
 		L.append(i)
 print(L)
